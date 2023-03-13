@@ -2,6 +2,7 @@
 ## SRE
 - [Collections of Books](https://www.oreilly.com/search/?query=Site%20Reliability%20Engineering%20(SRE)&extended_publisher_data=true&highlight=true&include_assessments=false&include_case_studies=true&include_courses=true&include_playlists=true&include_collections=true&include_notebooks=true&include_sandboxes=true&include_scenarios=true&is_academic_institution_account=false&source=suggestion&sort=relevance&facet_json=true&json_facets=true&page=0&include_facets=true&include_practice_exams=true)
 - [Fundamentals of Data Observability](https://www.oreilly.com/library/view/fundamentals-of-data/9781098133283/)
+- [SLO Adoption and Usage in Site Reliability Engineering](https://www.oreilly.com/library/view/slo-adoption-and/9781492075370/)
 
 ## Storage
 - [Storage and Network Convergence Using FCoE and iSCSI](https://www.oreilly.com/library/view/storage-and-network/0738438995/)
